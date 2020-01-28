@@ -1,2 +1,2 @@
-echo "Holberton"
-echo "Holberton school"
+#!/bin/base
+echo "Holberton School"
